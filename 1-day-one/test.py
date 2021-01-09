@@ -1,0 +1,1 @@
+print("This is just the begining of python in 100 days")
